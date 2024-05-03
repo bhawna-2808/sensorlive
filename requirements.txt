@@ -1,0 +1,5 @@
+pyMongo==4.2.0
+
+
+
+-e . #editable mode(not run setup.py file again and again only install requirement.txt setup.py automatically run or trigger setup.py and find_packages functionality works)
