@@ -1,5 +1,14 @@
-pyMongo==4.2.0
-
-
-
--e . #editable mode(not run setup.py file again and again only install requirement.txt setup.py automatically run or trigger setup.py and find_packages functionality works)
+dnspython==2.6.1
+joblib==1.4.2
+numpy==1.26.4
+pandas==2.2.2
+pymongo==4.2.0
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+pytz==2024.1
+scikit-learn==1.5.0
+scipy==1.13.1
+-e git+https://github.com/bhawna-2808/sensorlive.git@bf1089564d4828d0746b4b37ba74b329c57a3603#egg=sensor
+six==1.16.0
+threadpoolctl==3.5.0
+tzdata==2024.1
